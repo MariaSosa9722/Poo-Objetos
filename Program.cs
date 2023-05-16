@@ -19,8 +19,7 @@ namespace Objetos
             persona.ImprimirDatos();
 
             Console.WriteLine("--------------------");
-            Persona persona2 = new Persona();
-
+            Persona persona2 = new Persona();  
             persona2.Nombre = "Jose";
             persona2.Apellido = "Yam";
             persona2.Edad = 35;
